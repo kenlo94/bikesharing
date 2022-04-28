@@ -18,7 +18,7 @@ To do that, we had to:
 
 ### Results
 
-[link to dashboard](https://public.tableau.com/views/Deliverable2_16510871584180/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to dashboard](https://public.tableau.com/views/Deliverable2_16510871584180/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 We were able to:
 1. The highest count occurs at the 5 minute mark for all genders.
